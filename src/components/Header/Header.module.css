@@ -1,0 +1,15 @@
+.Header {
+    height: 70px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    background-color: #242424;
+    font-size: 20px;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: snow;
+    margin: 5px;
+}
